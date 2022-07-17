@@ -2,3 +2,8 @@
 	path = front
 	url = git@github.com:rigonlucas/petshop-front.git
     branch = main
+
+[submodule "back"]
+	path = back
+	url = git@github.com:rigonlucas/petshop-back.git
+    branch = main
