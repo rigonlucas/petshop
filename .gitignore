@@ -1,0 +1,14 @@
+# LINUX
+*~
+
+# PHPStorm
+.idea/workspace.xml
+.idea/dataSources
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/tasks.xml
+.idea/libraries/Generated_files.xml
+.idea/sonarlint/*
+.idea/csv-plugin.xml
+*.iws
