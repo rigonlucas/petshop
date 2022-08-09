@@ -119,6 +119,8 @@
       <excludeFolder url="file://$MODULE_DIR$/back/vendor/symfony/event-dispatcher-contracts" />
       <excludeFolder url="file://$MODULE_DIR$/back/vendor/itsgoingd/clockwork" />
       <excludeFolder url="file://$MODULE_DIR$/back/vendor/spatie/data-transfer-object" />
+      <excludeFolder url="file://$MODULE_DIR$/back/vendor/predis/predis" />
+      <excludeFolder url="file://$MODULE_DIR$/back/vendor/laravel/horizon" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
