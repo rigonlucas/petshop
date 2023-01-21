@@ -3,15 +3,33 @@
   <component name="PhpDockerContainerSettings">
     <list>
       <map>
-        <entry key="cbbce41f-7ac4-4f42-809d-de3cf4650f87">
+        <entry key="0a1892c3-3304-4687-a247-2fea3391b6b5">
           <value>
             <DockerContainerSettings>
+              <option name="networkMode" value="back_sail" />
+              <option name="runCliOptions" value="" />
               <option name="version" value="1" />
               <option name="volumeBindings">
                 <list>
                   <DockerVolumeBindingImpl>
                     <option name="containerPath" value="/opt/project" />
                     <option name="hostPath" value="$PROJECT_DIR$" />
+                  </DockerVolumeBindingImpl>
+                </list>
+              </option>
+            </DockerContainerSettings>
+          </value>
+        </entry>
+        <entry key="cbbce41f-7ac4-4f42-809d-de3cf4650f87">
+          <value>
+            <DockerContainerSettings>
+              <option name="runCliOptions" value="" />
+              <option name="version" value="1" />
+              <option name="volumeBindings">
+                <list>
+                  <DockerVolumeBindingImpl>
+                    <option name="containerPath" value="/opt/project" />
+                    <option name="hostPath" value="$PROJECT_DIR$/back" />
                   </DockerVolumeBindingImpl>
                 </list>
               </option>
