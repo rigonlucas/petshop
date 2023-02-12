@@ -119,6 +119,9 @@
       <excludeFolder url="file://$MODULE_DIR$/back/vendor/nunomaduro/termwind" />
       <excludeFolder url="file://$MODULE_DIR$/back/vendor/symfony/polyfill-uuid" />
       <excludeFolder url="file://$MODULE_DIR$/back/vendor/symfony/uid" />
+      <excludeFolder url="file://$MODULE_DIR$/back/vendor/mongodb/mongodb" />
+      <excludeFolder url="file://$MODULE_DIR$/back/vendor/jean85/pretty-package-versions" />
+      <excludeFolder url="file://$MODULE_DIR$/back/vendor/jenssegers/mongodb" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -113,6 +113,9 @@
       <path value="$PROJECT_DIR$/back/vendor/nunomaduro/termwind" />
       <path value="$PROJECT_DIR$/back/vendor/symfony/polyfill-uuid" />
       <path value="$PROJECT_DIR$/back/vendor/symfony/uid" />
+      <path value="$PROJECT_DIR$/back/vendor/mongodb/mongodb" />
+      <path value="$PROJECT_DIR$/back/vendor/jean85/pretty-package-versions" />
+      <path value="$PROJECT_DIR$/back/vendor/jenssegers/mongodb" />
     </include_path>
   </component>
   <component name="PhpInterpreters">
