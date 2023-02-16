@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
   <component name="PhpIncludePathManager">
     <include_path>
       <path value="$PROJECT_DIR$/back/vendor/symfony/css-selector" />
@@ -116,6 +126,8 @@
       <path value="$PROJECT_DIR$/back/vendor/mongodb/mongodb" />
       <path value="$PROJECT_DIR$/back/vendor/jean85/pretty-package-versions" />
       <path value="$PROJECT_DIR$/back/vendor/jenssegers/mongodb" />
+      <path value="$PROJECT_DIR$/back/vendor/guzzlehttp/uri-template" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/yaml" />
     </include_path>
   </component>
   <component name="PhpInterpreters">
@@ -208,11 +220,17 @@
       </interpreter>
     </phpInfoCache>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.2" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
   <component name="PhpUnit">
     <phpunit_settings>
       <phpunit_by_interpreter interpreter_id="0a1892c3-3304-4687-a247-2fea3391b6b5" custom_loader_path="/opt/project/back/vendor/autoload.php" phpunit_phar_path="" />
       <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/back/vendor/autoload.php" />
     </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
   </component>
 </project>

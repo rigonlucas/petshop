@@ -122,6 +122,8 @@
       <excludeFolder url="file://$MODULE_DIR$/back/vendor/mongodb/mongodb" />
       <excludeFolder url="file://$MODULE_DIR$/back/vendor/jean85/pretty-package-versions" />
       <excludeFolder url="file://$MODULE_DIR$/back/vendor/jenssegers/mongodb" />
+      <excludeFolder url="file://$MODULE_DIR$/back/vendor/guzzlehttp/uri-template" />
+      <excludeFolder url="file://$MODULE_DIR$/back/vendor/symfony/yaml" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
