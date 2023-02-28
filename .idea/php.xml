@@ -25,14 +25,12 @@
       <path value="$PROJECT_DIR$/back/vendor/theseer/tokenizer" />
       <path value="$PROJECT_DIR$/back/vendor/doctrine/lexer" />
       <path value="$PROJECT_DIR$/back/vendor/doctrine/inflector" />
-      <path value="$PROJECT_DIR$/back/vendor/doctrine/instantiator" />
       <path value="$PROJECT_DIR$/back/vendor/fakerphp/faker" />
       <path value="$PROJECT_DIR$/back/vendor/hamcrest/hamcrest-php" />
       <path value="$PROJECT_DIR$/back/vendor/fruitcake/php-cors" />
       <path value="$PROJECT_DIR$/back/vendor/phpoption/phpoption" />
       <path value="$PROJECT_DIR$/back/vendor/ralouphie/getallheaders" />
       <path value="$PROJECT_DIR$/back/vendor/sebastian/code-unit" />
-      <path value="$PROJECT_DIR$/back/vendor/sebastian/resource-operations" />
       <path value="$PROJECT_DIR$/back/vendor/sebastian/complexity" />
       <path value="$PROJECT_DIR$/back/vendor/sebastian/environment" />
       <path value="$PROJECT_DIR$/back/vendor/sebastian/recursion-context" />

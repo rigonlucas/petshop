@@ -21,14 +21,12 @@
       <excludeFolder url="file://$MODULE_DIR$/back/vendor/theseer/tokenizer" />
       <excludeFolder url="file://$MODULE_DIR$/back/vendor/doctrine/lexer" />
       <excludeFolder url="file://$MODULE_DIR$/back/vendor/doctrine/inflector" />
-      <excludeFolder url="file://$MODULE_DIR$/back/vendor/doctrine/instantiator" />
       <excludeFolder url="file://$MODULE_DIR$/back/vendor/fakerphp/faker" />
       <excludeFolder url="file://$MODULE_DIR$/back/vendor/hamcrest/hamcrest-php" />
       <excludeFolder url="file://$MODULE_DIR$/back/vendor/fruitcake/php-cors" />
       <excludeFolder url="file://$MODULE_DIR$/back/vendor/phpoption/phpoption" />
       <excludeFolder url="file://$MODULE_DIR$/back/vendor/ralouphie/getallheaders" />
       <excludeFolder url="file://$MODULE_DIR$/back/vendor/sebastian/code-unit" />
-      <excludeFolder url="file://$MODULE_DIR$/back/vendor/sebastian/resource-operations" />
       <excludeFolder url="file://$MODULE_DIR$/back/vendor/sebastian/complexity" />
       <excludeFolder url="file://$MODULE_DIR$/back/vendor/sebastian/environment" />
       <excludeFolder url="file://$MODULE_DIR$/back/vendor/sebastian/recursion-context" />
